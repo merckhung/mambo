@@ -1,0 +1,7 @@
+dbm
+api/emit_*.c
+api/emit_*.h
+elf/elf_loader.o
+.cproject
+.project
+.settings/
